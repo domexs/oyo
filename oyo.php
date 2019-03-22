@@ -458,7 +458,7 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, '{
 	"name": "'.$random_nama.' '.$random_nama2.'",
 	"phone": "'.$phone_number.'",
 	"push_type": "gcm",
-	"referral_code": "'.$reff.'",
+	"referral_code": "DIMAEL5MG",
 	"token": "c-PeIXwYYwg:APA91bHHQLHnS0FvSIOYJpN-hBJXYHxc1xQh8FrMZaQawBVPVyXxk77vTz7LWC4rtApBrZb3p4pOwJRD2JBMq0u3sChUgpasQFGcN_HNAGCscrcREwL-trFIBX3votCcFY1bn7eBmuCd",
 	"updated_at": 0
 }');
